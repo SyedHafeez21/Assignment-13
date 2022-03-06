@@ -1,0 +1,97 @@
+.nav-link {
+   font-weight: bold;
+}
+
+body{
+   margin: 0px;
+   padding: 0px;
+}
+
+.setPosition{
+   position: relative;
+   bottom: 25px;
+}
+
+.setPosition2{
+   position: relative;
+   bottom: 25px;
+}
+
+.height-fix{
+   height: 40px;
+   width: 250px;
+   padding-left: 10px;
+}
+.height-fix-2{
+   height: 40px;
+   width: 600px;
+   padding-left: 10px;
+}
+
+.btn-custom{
+   background-color: black;
+   height: 40px;
+   width: 40px;
+}
+.btn-custom i{
+ color: white;
+}
+
+.form-inline i {
+   font-size: 25px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.color-change{
+   position: relative;
+   bottom: 25px;
+   background-color: white !important;
+   font-size: 13px;
+}
+
+
+.sell-image-config{
+   height: 250px;
+   width: 100%;
+}
+
+.fix-margin{
+   margin-top: 10px;
+   margin-bottom: 20px !important;
+}
+
+.r-margin{
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+
+.footer-desigm{
+   background-color: rgb(235, 238, 239);
+   height: 180px;
+}
+
+.footer-heading-bold{
+   font-weight: bold;
+   margin-top: 10px;
+   margin-bottom: 5px;
+   font-size: 13px;
+}
+
+.footer-categories p{
+   font-size: 12px;
+   margin: 2px;
+}
+
+.footer-icons i {
+   margin-right: 10px;
+}
+
+.set-footer-icons{
+   width: 63px;
+}
+
+
+.top-margin-footer{
+   margin-top: 20px;
+}
